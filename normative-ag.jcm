@@ -6,4 +6,6 @@ mas nag {
         ag-class: npl.NormativeAg("src/org/demo.npl")
     }
 
+    agent alice
+
 }
